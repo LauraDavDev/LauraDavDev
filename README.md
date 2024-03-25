@@ -2,6 +2,8 @@
 <h3 align="center">Je suis développeuse full-stack et je suis passionnée par le développement front-end</h3>  
 <br/>
 
+![Image de mon futur bureau de geek](https://onlinewebdesigndegree.com/wp-content/uploads/2023/03/design-web-de-qualite-superieure.jpg)
+
 - 🔭  Je travaille actuellement sur un projet : **Application sur les animaux en React Native** 
 
 - 🌱 Ma formation : **Ada Tech School à été une formation très intense et condensée en 9 mois à temps plein.**
