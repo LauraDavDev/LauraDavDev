@@ -1,8 +1,9 @@
-<h1 align="center">Salut 👋 je m'appelle Laura Davignon</h1>
+<h1 align="center">Salut 👋 je m'appelle Laura</h1>
 <h3 align="center">Je suis développeuse full-stack et je suis passionnée par le développement front-end</h3>  
 <br/>
-
-![Image de mon futur bureau de geek](https://onlinewebdesigndegree.com/wp-content/uploads/2023/03/design-web-de-qualite-superieure.jpg)
+<p align="center">
+    <img align="center" width="70%" src="https://onlinewebdesigndegree.com/wp-content/uploads/2023/03/design-web-de-qualite-superieure.jpg" />
+</p>
 
 - 🔭  Je travaille actuellement sur un projet : **Application sur les animaux en React Native** 
 
@@ -10,22 +11,57 @@
 
 - 👯 Projet en collaboration avec une équipe de 3 personnes : **Site e-commerce vente de meubles**
 
-- 👨‍💻 Vous pouvez jeter un oeil sur mes projets déployés [https://portfolio-laura-davignon.vercel.app/](https://portfolio -laura-davignon.vercel.app/)
+- 👨‍💻 Vous pouvez jeter un oeil sur mes projets déployés https://portfolio-laura-davignon.vercel.app 🗃️
+
+
 
 - 💬 Ce que j'apprends actuellement : **React Native, React, Vue, Angular et Java**
 
 - 📫 Vous pouvez me contacter **laura.davignon.dev@gmail.com* *
 
+    <img align="right" width="35%" alt="GIF" src="https://media1.tenor.com/m/jg7k01FBbTsAAAAd/thumbs-up-well-done.gif"></img>
+
+
 - 📄 Voici mes expériences :
-    - [x] Création de jeu vidéo 2D en pixel-art.
-    - [x] Création d'une application Météo - API.
-    - [x] Création d'une extension du navigateur Chrome.
-    - [x] Création d'un réseau social en application web.
+    - [x] **Création de jeu vidéo 2D en pixel-art.** <br/>
+          ➡️ Conception du graphisme, des sprites, musiques et effets sonores - Tester, déboguer et itérer - Intéractions et combats <br/>
+          &nbsp;
+    - [x] **Création d'une application Météo - API.** <br/>
+          ➡️ Récupération des données météorologiques en temps réel - Conception de l'interface utilisateur - Géolocalisation - Gestion des erreurs et des exceptions <br/>
+          &nbsp;
+    - [x] **Création d'une extension du navigateur Chrome.** <br/>
+          ➡️ Manipuler le DOM - API Chrome - UI/UX Design - Gestion des événements - Communications HTTP - Compatibilité multiplateforme <br/>
+          &nbsp;
+    - [x] **Création d'un réseau social en application web.** <br/>
+          ➡️ Développement Front-End et Back-End - Base de données - Authentification et Autorisation - Sécuriser les données - Communication en temps réel - Optimisation et Scalabilité - Tests et Débogage - UX/UI Design <br/>
+ 
+  &nbsp;
 
 <h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-<a href="https://linkedin.com/in /www.linkedin.com/in/laura-davignon-developpeuse-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/laura-davignon-developpeuse-web" height="30" width="40" /></a>
+<p align="">
+<a href="https://linkedin.com/in /www.linkedin.com/in/laura-davignon-developpeuse-web" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png?20231202105023" alt="www.linkedin.com/in/laura-davignon-developpeuse-web" height="60" width="70" /></a>
+
+<a href="mailto:lunde@adobe.com?subject=Bonjour!">
+        <img alt="laura.davignon.dev@gmail.com" height="70" width="80" target="_blank" src="https://github.com/LauraDavDev/LauraDavDev/assets/135214085/1df5f3f9-5349-418f-8f8e-7f9d6cc1c0bb"/></a> 
+
+<a href="https://portfolio-laura-davignon.vercel.app" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="portfolio de laura"  height="70" width="80"/>
+        </a>
+        
 </p>
+&nbsp;
+&nbsp;
+
+## Quelles sont tes expériences ?
+
+**J'ai mené à bien des projets de A à Z, de la conception de la maquette au déploiement, et j'ai exploré une variété de technologies.** <br/>
+
+En outre, étant donné que j'ai appris par passion en investissant mon temps et mes économies 💳, je sais d'avance que je serai **surmotivée** pour chaque projet professionnel, prête à **transformer** la vision de quelqu'un en réalité et à apporter **mon soutien**.<br/>
+Chaque jour, je consolide mes connaissances pour continuer à progresser et à me rapprocher de mes objectifs.
+
+&nbsp;
+&nbsp;
+
 
 <h3 align="left">Langages et outils :</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height=" 40"/> </a>     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>     <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="figma" width="40" height="40"/> </a>     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/ ></a>     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>     
